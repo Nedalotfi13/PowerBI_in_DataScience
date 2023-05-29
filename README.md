@@ -1,2 +1,2 @@
 # PowerBI_in_DataScience
-This repository is for completing "Hands_On Power BI Training for Data Science" by Udemy.
+This repository is for completing "Microsoft Power BI" by Udemy as data visualization tool.
